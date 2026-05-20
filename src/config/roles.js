@@ -5,7 +5,7 @@
 // ─────────────────────────────────────────────
 
 export const TEACHER_EMAILS = [
-  // "teacher@school.com",
+  "testgenbud@gmail.com",
   // Add teacher emails here
 ];
 
